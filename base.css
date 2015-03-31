@@ -1,0 +1,17 @@
+body {
+	background-color:#444;
+	color: white;
+	padding:20pt;
+}
+
+div {
+	padding:10px;
+	margin-bottom:10px;
+	background-color:#b0b0b0;
+	color:#333;
+	display:none;
+}
+
+div.base {
+	display:block;
+}
