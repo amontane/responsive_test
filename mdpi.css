@@ -1,3 +1,7 @@
+div {
+	font-size: 25pt;
+}
+
 div.mdpi {
 	display:block;
 }
